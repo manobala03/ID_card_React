@@ -24,7 +24,7 @@ import Data from './Data';
 function App() {
   const [form, setForm] = useState({
     company_name: '',
-    
+    //the mano
     company_slogan: '',
     name: '',
     job_position: '',
